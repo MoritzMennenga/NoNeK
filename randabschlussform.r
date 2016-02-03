@@ -14,7 +14,7 @@
 
 
 
-START Randabschlussformen
+#START Randabschlussformen
 
 
 arbverz <- "D:\\"      					# Das angelegt Arbeitsverzeichnis waehlen
